@@ -1,4 +1,7 @@
-### Hi there 👋
+
+* 🔭 I work at SSW https://www.ssw.com.au/people/jerry-luo
+* 🌱 I’m currently learning Azure in my spare time
+* 👯 We are running UserGroup https://fireusergroup.com/
 
 <!--
 **jerryluossw/jerryluossw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
