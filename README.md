@@ -2,7 +2,7 @@
 * 🔭 I work at SSW https://www.ssw.com.au/people/jerry-luo
 * 🌱 I’m currently learning Azure in my spare time
 * 👯 We are running UserGroup https://fireusergroup.com/
-
+* 📃 I blog here: https://jerryluo.com/
 [![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=jerryluo5799&theme=dark)](https://github.com/jerryluo5799/github-readme-stats)
 
 
